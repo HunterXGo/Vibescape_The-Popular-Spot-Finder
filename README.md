@@ -1,2 +1,39 @@
-# Vibescape_The-Popular-Spot-Finder
-This is a webapp built by using OpenAi Codex.The webapp uses React framework.The webapp is built in order to find underrated spots in your city you can share good spots in the city which you like where others can also spend their time
+🌌 Vibescape
+
+Not popular. Just unforgettable.
+
+A minimal, aesthetic web platform to discover underrated places and hidden gems in cities.
+Built for explorers who prefer vibes over hype.
+
+⸻
+
+🚀 Overview
+
+Vibescape helps users find places that aren’t crowded, overhyped, or mainstream.
+Instead of trending locations, it focuses on quiet cafés, scenic spots, study corners, and aesthetic hangouts.
+
+⸻
+
+✨ Features
+	•	🔍 Search places by name
+	•	🏙 Filter by city
+	•	🎧 Explore by vibe (peaceful, aesthetic, study, sunset)
+	•	🗺 Get directions via Google Maps
+	•	➕ Add your own hidden spots (stored locally)
+	•	📱 Fully responsive minimal UI
+
+⸻
+
+🧱 Tech Stack
+	•	Frontend: React (Vite)
+	•	Styling: Tailwind CSS
+	•	Data: Local JSON + LocalStorage
+	•	Maps: Google Maps (via URL integration)
+
+⸻
+
+🎨 Design Philosophy
+	•	Minimal and distraction-free
+	•	Focus on typography and spacing
+	•	Dark theme with soft contrast
+	•	Built to feel calm, not crowded
