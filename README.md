@@ -37,3 +37,5 @@ Instead of trending locations, it focuses on quiet cafés, scenic spots, study c
 	•	Focus on typography and spacing
 	•	Dark theme with soft contrast
 	•	Built to feel calm, not crowded
+
+	It is bulit by taking help of OpenAI codex
