@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "Sunset Pier Walk",
+    "city": "Mumbai",
+    "description": "A quiet waterfront stretch with golden-hour views, sea breeze, and just enough calm to reset your evening.",
+    "bestTime": "6:15 PM",
+    "tags": ["sunset", "peaceful", "aesthetic"],
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=900&q=80",
+    "latitude": 18.9217,
+    "longitude": 72.8347
+  },
+  {
+    "id": 2,
+    "name": "Paper Lantern Library",
+    "city": "Bengaluru",
+    "description": "An intimate reading room above a cafe, known for soft lighting, window-side tables, and low-key focus energy.",
+    "bestTime": "11:00 AM",
+    "tags": ["study", "cozy", "aesthetic"],
+    "image": "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=900&q=80",
+    "latitude": 12.9719,
+    "longitude": 77.5947
+  },
+  {
+    "id": 3,
+    "name": "Terrace Bloom House",
+    "city": "Jaipur",
+    "description": "A floral rooftop tucked behind old lanes, perfect for slow coffee, soft conversations, and city skyline photos.",
+    "bestTime": "5:30 PM",
+    "tags": ["aesthetic", "sunset", "peaceful"],
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156?auto=format&fit=crop&w=900&q=80",
+    "latitude": 26.9124,
+    "longitude": 75.7873
+  },
+  {
+    "id": 4,
+    "name": "Willow Courtyard Cafe",
+    "city": "Delhi",
+    "description": "A leafy courtyard cafe hidden behind a bookstore lane, with soft jazz, cold brew, and a slow afternoon mood.",
+    "bestTime": "4:00 PM",
+    "tags": ["cozy", "aesthetic", "peaceful"],
+    "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=900&q=80",
+    "latitude": 28.6139,
+    "longitude": 77.209
+  },
+  {
+    "id": 5,
+    "name": "Blue Hour Steps",
+    "city": "Goa",
+    "description": "Stone steps leading to a tucked-away shoreline where the post-sunset light makes everything feel cinematic.",
+    "bestTime": "6:45 PM",
+    "tags": ["sunset", "peaceful", "aesthetic"],
+    "image": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=900&q=80",
+    "latitude": 15.4909,
+    "longitude": 73.8278
+  },
+  {
+    "id": 6,
+    "name": "Quiet Chapter Loft",
+    "city": "Pune",
+    "description": "A compact top-floor reading loft with long desks, warm lamps, and the kind of silence that helps you focus.",
+    "bestTime": "10:30 AM",
+    "tags": ["study", "cozy", "peaceful"],
+    "image": "https://images.unsplash.com/photo-1521587760476-6c12a4b040da?auto=format&fit=crop&w=900&q=80",
+    "latitude": 18.5204,
+    "longitude": 73.8567
+  },
+  {
+    "id": 7,
+    "name": "Cafe Bahar",
+    "city": "Hyderabad",
+    "description": "A best place for Authentic Hyderbadi Biriyani.",
+    "bestTime": "08:30 PM",
+    "tags": ["Authentic", "cozy", "peaceful"],
+    "image": "Biri.jpg",
+    "latitude": 17.3998,
+    "longitude": 78.4786
+  }
+]
