@@ -36,4 +36,6 @@ Instead of trending locations, it focuses on quiet cafés, scenic spots, study c
 	•	Minimal and distraction-free
 	•	Focus on typography and spacing
 	•	Dark theme with soft contrast
-	•	Built to feel calm, not crowded																																						It is built by using OpenAI Codex
+	•	Built to feel calm, not crowded	It is built by using OpenAI Codex
+
+It is built by using OpenAI Codex
