@@ -56,7 +56,7 @@ src/
 
 Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/vibescape.git
+git clone https://github.com/HunterXGo/Vibescape_The-Popular-Spot-Finder
 
 # Navigate into project
 cd vibescape
